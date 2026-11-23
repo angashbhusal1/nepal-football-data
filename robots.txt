@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://angashbhusal1.github.io/nepal-football-data/sitemap.xml
